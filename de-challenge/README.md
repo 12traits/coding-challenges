@@ -20,6 +20,6 @@ If you see anything that you consider worth improving, either in the code, SQL s
 
 ## Details
 
-MySQL schema can be found in assets/init.sql file, `traits_players` table contains trait values for each player, each record in this table represets a cell from CSV file.
+MySQL schema can be found in assets/init.sql file, `traits_players` table contains trait values for each player, each record in this table represents a cell from CSV file.
 
 `traits` table doesn't contain all traits from CSV file, but these traits are enough for the API endpoints.
