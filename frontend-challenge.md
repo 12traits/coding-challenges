@@ -1,4 +1,4 @@
-# 12traits Frontend Developer Challenge
+# Solsten Frontend Developer Challenge
 
 ## Overview
 
