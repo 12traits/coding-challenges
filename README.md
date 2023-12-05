@@ -31,9 +31,3 @@ Reviewing the application we'll look at the following aspects:
 - **Code quality:** Is the code simple, easy to understand, and maintainable? Is it aligned with the community-accepted way of solving similar problems?
 - **Testing:** If required, what testing approach was taken? Will the tests be difficult to change if the requirements of the application changed?
 - **Technical decisions:** Do choices of libraries, algorithms, and architecture seem appropriate for the challenge?
-
-
-## Links To Specific Challenges
-- [Backend Developer Challenge (Survey and dashboard services)](https://github.com/Solsten/coding-challenges/blob/master/bed-challenge.md)
-- [Frontend Developer Challenge (Survey results visualization)](https://github.com/Solsten/coding-challenges/blob/master/fed-challenge.md)
-- [DevOps Challenge](https://github.com/Solsten/coding-challenges/tree/master/devops-challenge)
