@@ -38,9 +38,4 @@ Reviewing the application we'll look at the following aspects:
 ## Links To Specific Challenges
 - [Backend Developer Challenge (Survey and dashboard services)](https://github.com/12traits/coding-challenges/blob/master/bed-challenge.md)
 - [Frontend Developer Challenge (Survey results visualization)](https://github.com/12traits/coding-challenges/blob/master/fed-challenge.md)
-- [Data Engineer Challenge](https://github.com/12traits/coding-challenges/tree/master/de-challenge)
 - [DevOps Challenge](https://github.com/12traits/coding-challenges/tree/master/devops-challenge)
-
-## Credits
-- The structure and description is taken from https://github.com/Guidebook/code-challenges
-- The process is inspired by https://www.thoughtworks.com/
