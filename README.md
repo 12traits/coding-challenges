@@ -1,20 +1,18 @@
-# 12traits Code Challenges
+# Solsten Code Challenges
 
-The 12traits Code Challenge is an opportunity to demonstrate proficiency with problem solving, collaboration skills, and curiosity we would expect you to demonstrate at 12traits.
+The Solsten Code Challenge is an opportunity to demonstrate proficiency with problem solving, collaboration skills, and curiosity we would expect you to demonstrate at Solsten.
 
-The challenge forms the foundation for further technical interviews as well as ideally onsite collaboration during your interview process. Additionally, we would like you to get a better understanding of some common tasks you'll encounter at 12traits.
-
+The challenge forms the foundation for further technical interviews as well as ideally onsite collaboration during your interview process. Additionally, we would like you to get a better understanding of some common tasks you'll encounter at Solsten.
 
 ## How to complete a Challenge
 Select a challenge and create a new git repository for that project.
-Organize your work within that repository. When you get to a stopping point, archive the repository (or publish it, if you prefer) and send it to your 12traits contact.
-
+Organize your work within that repository. When you get to a stopping point, archive the repository (or publish it, if you prefer) and send it to your Solsten contact.
 
 #### Time
 We want to be mindful of your time and would appreciate it if you spend no more than 6 hours on your challenge. The challenges are scoped for a ~4hr timeframe. We simply want to get a sense for your thought process and the way you work. If there are features you do not have time to implement, feel free to describe your intended implementation approach in the README.
 
-
 #### Your Challenge README
+
 Include the following in your README:
 
 - A description of the problem and solution.
@@ -36,6 +34,6 @@ Reviewing the application we'll look at the following aspects:
 
 
 ## Links To Specific Challenges
-- [Backend Developer Challenge (Survey and dashboard services)](https://github.com/12traits/coding-challenges/blob/master/bed-challenge.md)
-- [Frontend Developer Challenge (Survey results visualization)](https://github.com/12traits/coding-challenges/blob/master/fed-challenge.md)
-- [DevOps Challenge](https://github.com/12traits/coding-challenges/tree/master/devops-challenge)
+- [Backend Developer Challenge (Survey and dashboard services)](https://github.com/Solsten/coding-challenges/blob/master/bed-challenge.md)
+- [Frontend Developer Challenge (Survey results visualization)](https://github.com/Solsten/coding-challenges/blob/master/fed-challenge.md)
+- [DevOps Challenge](https://github.com/Solsten/coding-challenges/tree/master/devops-challenge)
